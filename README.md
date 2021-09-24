@@ -1,7 +1,9 @@
 # Francisca Ljubetic 
 <h3 align="left">HI, I´m a developer from Chile :rocket: &nbsp;</h3> 
 
-<p align="left"> <img src="https://lh3.googleusercontent.com/-M_a45J6gG5M/YU0RoZt9yjI/AAAAAAAAMPA/bP97m8PKQpgh1VTpPEBFn11tLT4eIGn9ACEwYBhgLKtQDABHVOhy581tsWlYHd4cXcy1LIp1MOLU9GZqZCcxdhTG7JCCigC6nh-jSzT63IFRcIkT9IMcUU1H74WDD-IReu-dlL3hRqERTuGtirv_UO8Zos8FTWXYM-BdlLfLwAIt1ayP8BLFBBIMh3n1MgRs6lB19XMnVhPUd2-K7JuA9W3u4pY_5MhrJrqoecLepDYmsoolnEgijJ3qwhNnCHJE_TxjEbIysm5j-CO4j00rHnJ0caWDy5rRdft9CUNGH8DWSqZgLfwTekYv_Czytrda5iMJEut7ouxe1ScedDbxBE61Zv1ul-_GN2kIiqiJGgRTLQ7btcWCxgYMMPsZ3-kwGnpQwVeyCT7DJJIyeu6cHxW-OoPfCIqtbAYx26ofVkWjbDSnhyuhvgbuqjtHHFuY09f3Ml6QS99v_42tgUF9y5mCC1nxdH-hhWfiZQK03xwZEHgXqq8e7QgSWDs1Pv0mte2CPWOS6J5LmnjWTmadWobfmz5-E6TCRpXZyuFMSLOQOuIbwl0y7PlvMPYKlBlm896Qef_Dr7mFkpaAYtqPYlSI3MpEAQvJ6QmyAHqOaUYpN8k_UhukTs54cKEncYB_l_Jl9EYQyAsgt0BKgZhNCmmo-qHLVMN2wuIoG/w140-h140-p/ProfilePicturePhoto" alt="franciscaljubetic" /> </p>
+<p align="right"> <img src="https://lh3.googleusercontent.com/-M_a45J6gG5M/YU0RoZt9yjI/AAAAAAAAMPA/bP97m8PKQpgh1VTpPEBFn11tLT4eIGn9ACEwYBhgLKtQDABHVOhy581tsWlYHd4cXcy1LIp1MOLU9GZqZCcxdhTG7JCCigC6nh-jSzT63IFRcIkT9IMcUU1H74WDD-IReu-dlL3hRqERTuGtirv_UO8Zos8FTWXYM-BdlLfLwAIt1ayP8BLFBBIMh3n1MgRs6lB19XMnVhPUd2-K7JuA9W3u4pY_5MhrJrqoecLepDYmsoolnEgijJ3qwhNnCHJE_TxjEbIysm5j-CO4j00rHnJ0caWDy5rRdft9CUNGH8DWSqZgLfwTekYv_Czytrda5iMJEut7ouxe1ScedDbxBE61Zv1ul-_GN2kIiqiJGgRTLQ7btcWCxgYMMPsZ3-kwGnpQwVeyCT7DJJIyeu6cHxW-OoPfCIqtbAYx26ofVkWjbDSnhyuhvgbuqjtHHFuY09f3Ml6QS99v_42tgUF9y5mCC1nxdH-hhWfiZQK03xwZEHgXqq8e7QgSWDs1Pv0mte2CPWOS6J5LmnjWTmadWobfmz5-E6TCRpXZyuFMSLOQOuIbwl0y7PlvMPYKlBlm896Qef_Dr7mFkpaAYtqPYlSI3MpEAQvJ6QmyAHqOaUYpN8k_UhukTs54cKEncYB_l_Jl9EYQyAsgt0BKgZhNCmmo-qHLVMN2wuIoG/w140-h140-p/ProfilePicturePhoto" alt="franciscaljubetic" /> </p>
+<li> I love both Backend 🤚🏼 and Frontend ✋. </li>
+<li> I am so interested in developing and deepening my knowledge. 🦉 </li>
 
 📫 You can reach me at:  **franciscaljubetic@gmail.com**
 
