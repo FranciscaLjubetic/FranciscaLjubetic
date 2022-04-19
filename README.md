@@ -4,7 +4,7 @@
 <h3> About me </h3>
 <li> I love both Backend ✋ and Frontend 💅 </li>
 <li> I am so interested in developing and deepening my knowledge 🦉</li>
-<li> Sometimes I draw and I love it too 🖍️ </li>
+<li> Sometimes I draw and I love it too 🖍️🎨 </li>
 <li> My fav things in life are (in this order): My daughter👧🏼, my cat 🐈 and drinking tea ☕ </li>
 <li> But what I like to do most is to learn from others. I am very collaborative and always eager to learn something new 🌠✨</li>
 
