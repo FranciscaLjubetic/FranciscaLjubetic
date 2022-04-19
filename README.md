@@ -16,8 +16,9 @@
 
 <h3 align="right">Development Tools:</h3>
 <a align="right" href="https://code.visualstudio.com/" target="_blank"> <img align="right" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="visual-studio" width="150" height="25"/> </a>
-<a align="right" href="https://www.jetbrains.com/idea/" target="_blank"> <img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/idea_icon.svg" alt="visual-studio" width="150" height="25"/> </a>
 <br><br>
+<a align="right" href="https://www.jetbrains.com/idea/" target="_blank"><img align="right" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/idea_icon.svg" alt="visual-studio" width="60" height="35"/></a>
+<br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscaljubetic&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="franciscaljubetic" /></p>
 
 ![card](https://github-readme-stats.vercel.app/api?username=franciscaljubetic&theme=cobalt)
