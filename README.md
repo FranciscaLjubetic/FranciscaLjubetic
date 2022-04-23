@@ -1,4 +1,4 @@
-# HI, I´m a developer from Chile &nbsp;
+# HI, I´m a developer from Chile 🇨🇱;
 
 
 <h3> About me </h3>
